@@ -1,3 +1,5 @@
-```pip3 install mcp 'mcp[cli]'
-mcp dev calculator.py```
+```
+pip3 install mcp 'mcp[cli]'
+mcp dev calculator.py
+```
 
